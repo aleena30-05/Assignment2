@@ -1,0 +1,20 @@
+[
+  {
+    "_id": {"$oid": "507f1f77bcf86cd799439021"},
+    "product_id": {"$oid": "507f1f77bcf86cd799439011"},
+    "user_id": {"$oid": "507f191e810c19729de860eb"},
+    "licenseKey": "ABC123",
+    "activationStatus": false,
+    "issuedAt": {"$date": "2023-01-15T00:00:00Z"},
+    "activatedAt": null
+  },
+  {
+    "_id": {"$oid": "507f1f77bcf86cd799439022"},
+    "product_id": {"$oid": "507f1f77bcf86cd799439012"},
+    "user_id": {"$oid": "507f191e810c19729de860eb"},
+    "licenseKey": "XYZ789",
+    "activationStatus": true,
+    "issuedAt": {"$date": "2023-01-16T00:00:00Z"},
+    "activatedAt": {"$date": "2023-01-17T00:00:00Z"}
+  }
+]

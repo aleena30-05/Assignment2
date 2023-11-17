@@ -1,0 +1,18 @@
+[
+  {
+    "_id": {"$oid": "507f191e810c19729de860ea"},
+    "username": "admin_user",
+    "email": "admin@example.com",
+    "passwordHash": "hashed_password",
+    "role": "admin",
+    "registeredAt": {"$date": "2023-01-01T00:00:00Z"}
+  },
+  {
+    "_id": {"$oid": "507f191e810c19729de860eb"},
+    "username": "regular_user",
+    "email": "user@example.com",
+    "passwordHash": "hashed_password",
+    "role": "user",
+    "registeredAt": {"$date": "2023-01-02T00:00:00Z"}
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "_id": {"$oid": "507f1f77bcf86cd799439011"},
+    "name": "CloudSuite Pro",
+    "version": "1.0",
+    "description": "Cloud-based productivity suite.",
+    "createdAt": {"$date": "2023-01-05T00:00:00Z"},
+    "updatedAt": {"$date": "2023-01-10T00:00:00Z"}
+  },
+  {
+    "_id": {"$oid": "507f1f77bcf86cd799439012"},
+    "name": "DataAnalytics Plus",
+    "version": "2.1",
+    "description": "Advanced data analysis tool.",
+    "createdAt": {"$date": "2023-01-06T00:00:00Z"},
+    "updatedAt": {"$date": "2023-01-11T00:00:00Z"}
+  }
+]
